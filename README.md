@@ -1,8 +1,8 @@
 ### Hi there, I'm Aakash Dwivedy! 👋
 
-- 🔭 I’m currently working on Android Projects.
-- 🌱 I’m currently learning Android Development.
-- 👯 I’m looking to collaborate on Android Projects and Hackathons.
+- 🔭 I’m currently working on Web Development.
+- 🌱 I’m currently learning JavaScript.
+- 👯 I’m looking to collaborate in Hackathons.
 - 🤔 I’m looking for help with Open-Source Projects.
 - 💬 Ask me about programming and tech related stuff.
 - 📫 How to reach me: LinkedIn - @dwivedyaakash
