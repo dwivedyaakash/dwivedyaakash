@@ -50,6 +50,6 @@
 
 [linkedin]: https://linkedin.com/in/dwivedyaakash
 [github]: https://github.com/dwivedyaakash
-[instagram]: https://instagram.com/dwivedy.aakash
+[instagram]: https://instagram.com/dwivedyaakash1
 [facebook]: https://www.facebook.com/dwivedyaakash/
 [twitter]: https://twitter.com/dwivedyaakash
