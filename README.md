@@ -1,3 +1,5 @@
+<img src="GitHub banner temp.png"/>
+
 ### Hi there, I'm Aakash Dwivedy! 👋
 
 - 🔭 I’m currently working on Web Development.
