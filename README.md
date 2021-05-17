@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Computer Security Day is celebrated on November 30th and My Birthday is on November 13th.
 
-### Visit my portfolio website: [Aakash's portfolio](https://dwivedyaakash.github.io/portfolio/)
+### Visit my portfolio website: [Aakash's portfolio](https://dwivedyaakash.github.io)
 
 ### Connect with me:
 
