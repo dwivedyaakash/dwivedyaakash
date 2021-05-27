@@ -1,6 +1,6 @@
 <img src="GitHub_banner.png"/>
 
-### Hi there, I'm Aakash Dwivedy! 👋
+### Hi there, I'm [Aakash!](https://dwivedyaakash.github.io) 👋
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning JavaScript.
@@ -15,27 +15,32 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Aakash Dwivedy - LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aakash Dwivedy - GitHub" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Aakash Dwivedy - Instagram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Aakash Dwivedy - Facebook" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Aakash Dwivedy - Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<a href="https://github.com/dwivedyaakash">
+  <img align="left" alt="Aakash Dwivedy - GitHub" width="22px" src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/github.svg" />
+</a>
+<a href="https://linkedin.com/in/dwivedyaakash">
+  <img align="left" alt="Aakash Dwivedy - LinkedIn" width="22px" src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/dwivedyaakash">
+  <img align="left" alt="Aakash Dwivedy - Twitter" width="22px" src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/twitter.svg" />
+</a>
+<a href="https://instagram.com/dwivedyaakash1">
+  <img align="left" alt="Aakash Dwivedy - Instagram" width="22px" src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/dwivedyaakash/">
+  <img align="left" alt="Aakash Dwivedy - Facebook" width="22px" src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/facebook.svg" />
+</a>
 
 <br />
 
 ### Languages and tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Android" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="C" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="C++" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
+<img align="left" alt="C++" width="22" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="GIT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 <br />
@@ -55,9 +60,3 @@
 ### GitHub profile views:
 
 ![Visitor Count](https://profile-counter.glitch.me/{dwivedyaakash}/count.svg)
-
-[linkedin]: https://linkedin.com/in/dwivedyaakash
-[github]: https://github.com/dwivedyaakash
-[instagram]: https://instagram.com/dwivedyaakash1
-[facebook]: https://www.facebook.com/dwivedyaakash/
-[twitter]: https://twitter.com/dwivedyaakash
