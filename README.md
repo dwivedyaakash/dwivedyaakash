@@ -23,7 +23,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Android" width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
@@ -42,7 +42,7 @@
 
 ---
 
-### GitHub Stats:
+### GitHub stats:
 
 <a href="https://github.com/dwivedyaakash">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwivedyaakash&theme=react&hide_langs_below=1" />
@@ -52,7 +52,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwivedyaakash&&show_icons=true&amp;theme=react&amp" />
 <a/>
 
-### GitHub Profile Views:
+### GitHub profile views:
 
 ![Visitor Count](https://profile-counter.glitch.me/{dwivedyaakash}/count.svg)
 
