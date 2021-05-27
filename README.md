@@ -45,11 +45,11 @@
 ### GitHub Stats:
 
 <a href="https://github.com/dwivedyaakash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwivedyaakash&theme=gotham&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwivedyaakash&theme=react&hide_langs_below=1" />
 <a/>
 
 <a href="https://github.com/dwivedyaakash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwivedyaakash&&show_icons=true&amp;theme=gotham&amp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwivedyaakash&&show_icons=true&amp;theme=react&amp" />
 <a/>
 
 ### GitHub Profile Views:
