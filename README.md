@@ -42,13 +42,19 @@
 
 ---
 
+### GitHub Stats:
+
 <a href="https://github.com/dwivedyaakash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwivedyaakash&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwivedyaakash&theme=gotham&hide_langs_below=1" />
 <a/>
 
 <a href="https://github.com/dwivedyaakash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwivedyaakash&&show_icons=true&amp;theme=light&amp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwivedyaakash&&show_icons=true&amp;theme=gotham&amp" />
 <a/>
+
+### GitHub Profile Views:
+
+![Visitor Count](https://profile-counter.glitch.me/{dwivedyaakash}/count.svg)
 
 [linkedin]: https://linkedin.com/in/dwivedyaakash
 [github]: https://github.com/dwivedyaakash
