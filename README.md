@@ -57,6 +57,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwivedyaakash&layout=compact&theme=react" />
 <a/>
 
-### GitHub profile views:
+<br />
+<br />
 
-![Visitor Count](https://profile-counter.glitch.me/{dwivedyaakash}/count.svg)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dwivedyaakash/count.svg" />
+</p>
