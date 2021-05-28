@@ -50,11 +50,11 @@
 ### GitHub stats:
 
 <a href="https://github.com/dwivedyaakash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwivedyaakash&theme=react&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwivedyaakash&&show_icons=true&amp;theme=react&amp" />
 <a/>
 
 <a href="https://github.com/dwivedyaakash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwivedyaakash&&show_icons=true&amp;theme=react&amp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwivedyaakash&layout=compact&theme=react" />
 <a/>
 
 ### GitHub profile views:
