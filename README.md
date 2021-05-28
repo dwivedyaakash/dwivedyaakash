@@ -50,7 +50,7 @@
 ### GitHub stats:
 
 <a href="https://github.com/dwivedyaakash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwivedyaakash&&show_icons=true&amp;theme=react&amp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwivedyaakash&show_icons=true&include_all_commits=true&theme=react" />
 <a/>
 
 <a href="https://github.com/dwivedyaakash">
