@@ -7,10 +7,9 @@
 - 👯 I’m looking to collaborate in Hackathons.
 - 🤔 I’m looking for help with Open-Source Projects.
 - 💬 Ask me about programming and tech related stuff.
-- 📫 How to reach me: LinkedIn - @dwivedyaakash
+- 📫 How to reach me: aakashdwd07@gmail.com
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: Computer Security Day is celebrated on November 30th and My Birthday is on November 13th.
-
+- ⚡ Fun fact: I'm also a graphic designer by hobby.
 ### Visit my portfolio website: [Aakash's portfolio](https://dwivedyaakash.github.io)
 
 ### Connect with me:
