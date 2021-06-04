@@ -23,7 +23,7 @@
 <a href="https://twitter.com/dwivedyaakash">
   <img align="left" alt="Aakash Dwivedy - Twitter" width="22px" src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/twitter.svg" />
 </a>
-<a href="https://instagram.com/dwivedyaakash1">
+<a href="https://instagram.com/aakashdwivedy">
   <img align="left" alt="Aakash Dwivedy - Instagram" width="22px" src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/dwivedyaakash/">
