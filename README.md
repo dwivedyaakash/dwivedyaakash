@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning JavaScript.
-- 👯 I’m looking to collaborate in Hackathons.
+- 👯 I’m looking to collaborate on Web Development Projects.
 - 🤔 I’m looking for help with Open-Source Projects.
 - 💬 Ask me about programming and tech related stuff.
 - 📫 How to reach me: aakashdwd07@gmail.com
