@@ -1,5 +1,3 @@
-<> (<img src="GitHub_banner.png"/>)
-
 ### Hi there, I'm [Aakash!](https://dwivedyaakash.github.io) 👋
 
 - 🔭 I’m currently working on Web Development.
