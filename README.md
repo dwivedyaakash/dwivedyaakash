@@ -1,4 +1,4 @@
-<img src="GitHub_banner.png"/>
+<> (<img src="GitHub_banner.png"/>)
 
 ### Hi there, I'm [Aakash!](https://dwivedyaakash.github.io) 👋
 
