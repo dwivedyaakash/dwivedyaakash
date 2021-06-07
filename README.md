@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/github_banner.png" />
+
 ### Hi there, I'm [Aakash!](https://dwivedyaakash.github.io) 👋
 
 - 🔭 I’m currently working on Web Development.
