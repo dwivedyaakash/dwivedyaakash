@@ -48,13 +48,11 @@
 
 ### GitHub stats:
 
-<a href="https://github.com/dwivedyaakash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwivedyaakash&show_icons=true&include_all_commits=true&theme=react" />
-<a/>
-
-<a href="https://github.com/dwivedyaakash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwivedyaakash&layout=compact&theme=react" />
-<a/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dwivedyaakash&show_icons=true&include_all_commits=true&theme=react" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dwivedyaakash&theme=react" />  
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwivedyaakash&layout=compact&theme=react" />
+</p>
 
 <br />
 <br />
