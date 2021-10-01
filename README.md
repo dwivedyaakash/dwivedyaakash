@@ -3,7 +3,7 @@
 ### Hi there, I'm [Aakash!](https://dwivedyaakash.github.io) 👋
 
 - 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Web Development Projects.
 - 🤔 I’m looking for help with Open-Source Projects.
 - 💬 Ask me about programming and tech related stuff.
