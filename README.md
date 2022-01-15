@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/github_banner.png" />
+<img src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/github_banner.png" />
 
 ## Hi there, I'm [Aakash!](https://dwivedyaakash.github.io) 👋
 
