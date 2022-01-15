@@ -10,8 +10,7 @@
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I'm also a graphic designer by hobby.
 
-
-## Connect With Me:
+## Connect with me:
 
 <p>
   <a href="https://dwivedyaakash.github.io">
@@ -30,8 +29,6 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
-
-<br />
 
 ## Languages and Tools:
 
