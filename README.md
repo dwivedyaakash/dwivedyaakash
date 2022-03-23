@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/github_banner.png" />
-
-## Hi there, I'm [Aakash!](https://dwivedyaakash.github.io) 👋
+<h1 align="center">Hi there, I'm Aakash! 👋</h1>
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning React.
