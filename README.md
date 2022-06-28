@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Open-Source Projects.
 - 💬 Ask me about programming and tech related stuff.
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I try to be a minimalist.
+- ⚡ Fun fact: I'm trying to be a minimalist.
 
 ## Connect with me:
 
