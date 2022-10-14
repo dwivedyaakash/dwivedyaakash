@@ -8,6 +8,19 @@
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I'm trying to be a minimalist.
 
+<br />
+
+## Coding profiles:
+
+<p>
+  <a href="http://hackerrank.com/dwivedyaakash">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/dwivedyaakash">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</p>
+
 ## Connect with me:
 
 <p>
@@ -22,6 +35,9 @@
   </a>
   <a href="https://twitter.com/dwivedyaakash">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/dwivedyaakash">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </p>
 
