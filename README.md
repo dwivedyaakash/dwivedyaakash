@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Aakash! 👋</h1>
 
-- 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on Web Development Projects.
-- 🤔 I’m looking for help with Open-Source Projects.
-- 💬 Ask me about programming and tech-related stuff.
+- 🔭 I’m currently working on Android Development.
+- 🌱 I’m currently learning about AI/ML.
+- 👯 I’m looking to collaborate on Web and Mobile apps.
+- 🤔 I’m looking for help with Open-Source projects.
+- 💬 Ask me about programming and tech related stuff.
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I'm trying to be a minimalist.
+- ⚡ Fun fact: I try to be a minimalist.
 
 <br />
 
@@ -44,11 +44,16 @@
 ## Languages and Tools:
 
 <p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Java-D00000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
 
 ## Frameworks and Libraries:
@@ -63,12 +68,14 @@
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logoColor=white" />
 </p>
 
 ## Development Tools:
 
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
