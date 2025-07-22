@@ -13,14 +13,11 @@
 ## Coding profiles:
 
 <p>
-  <a href="https://www.geeksforgeeks.org/user/dwivedyaakash">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <a href="https://leetcode.com/dwivedyaakash">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
   <a href="http://hackerrank.com/dwivedyaakash">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/dwivedyaakash">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
 </p>
 
